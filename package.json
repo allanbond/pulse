@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "chromium": "^3.0.3",
+    "luxon": "^3.0.4",
     "puppeteer": "^18.0.5"
   }
 }
